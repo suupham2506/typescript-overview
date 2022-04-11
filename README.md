@@ -93,8 +93,5 @@ let count = 4;
 - Kiểu nguyên thủy: number, boolean, string, null, undefined, symbol
 - Kiểu tham chiếu: array, object, function
 - Ngoài ra còn có thêm any, unknown, void, never,...
-<<<<<<< HEAD
 
 Created by Suu Pham SP
-=======
->>>>>>> 52655ad (add README.md)
