@@ -94,4 +94,4 @@ let count = 4;
 - Kiểu tham chiếu: array, object, function
 - Ngoài ra còn có thêm any, unknown, void, never,...
 
-Created by Suu Pham SP
+Created by Suu Pham SP Revert
